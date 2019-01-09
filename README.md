@@ -181,7 +181,7 @@ Initializing Network DB...
 [*] Successfully connected.
 ```
 
-The server will also acknoledge a succesful connection: 
+The server will also acknoledge a successful connection: 
 ```
 [*] Pina Colada has connected.
 ```
